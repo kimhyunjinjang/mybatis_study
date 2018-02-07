@@ -2,7 +2,7 @@ package kr.or.dgit.mybatis_study.dao;
 
 import java.util.List;
 
-import kr.or.dgit.mybatis._study.dto.Student;
+import kr.or.dgit.mybatis_study.dto.Student;
 
 public interface StudentDao {
 	Student findStudentById(int studId);

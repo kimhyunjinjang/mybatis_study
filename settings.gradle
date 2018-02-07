@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'mybatis._study'
+rootProject.name = 'mybatis_study'

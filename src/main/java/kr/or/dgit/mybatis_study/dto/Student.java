@@ -1,4 +1,4 @@
-package kr.or.dgit.mybatis._study.dto;
+package kr.or.dgit.mybatis_study.dto;
 
 import java.util.Date;
 
